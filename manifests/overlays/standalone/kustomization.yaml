@@ -6,4 +6,4 @@ resources:
   - namespace.yaml
 images:
   - name: kubeflow/training-operator
-    newTag: "v1-d0fb5c0"
+    digest: "sha256:f34aa502fc9435b3fc09c75a2ab8813b2d15d3d270db8651f35e64a464a0a77e"
